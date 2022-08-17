@@ -1,7 +1,7 @@
 # GlebDev
 
 ## Data Analysis
-- ![Youtube Link][logo] &nbsp; Polars vs Pandas in real dataset
+- Polars vs Pandas in real dataset (video) (code)
 
 ## SQL
-- ![Youtube Link][logo] &nbsp; SQL window functions in Clickhouse
+- SQL window functions in Clickhouse (video) (code)
